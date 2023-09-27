@@ -10,6 +10,9 @@ endif
 " set font
 set guifont=Courier_New:b:h12
 
+" auto fullscreen
+autocmd GUIEnter * simalt ~x
+
 " vmap <leader>c  copy to system clipboard
 vnoremap <leader>c "+y
 
