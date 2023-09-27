@@ -13,9 +13,11 @@ set guifont=Courier_New:b:h12
 " auto fullscreen
 autocmd GUIEnter * simalt ~x
 
-" vmap <leader>c  copy to system clipboard
-vnoremap <leader>c "+y
+" vnoremap <leader>y  copy to system clipboard
+vnoremap <leader>y "+y
 
+" nnoremap <leader>c  copy online to system clipboard
+nnoremap <leader>c 0vg_"+y
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Nerd Tree
