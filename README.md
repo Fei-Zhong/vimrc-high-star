@@ -21,7 +21,7 @@ The awesome version includes a lot of great plugins, configurations and color sc
 ### install for windows
 edit C:\Users\YourName\_vimrc file，add this line：
 ```
-" git clone --depth=2 https://github.com/Fei-Zhong/vimrc-high-star
+" git clone --depth=2 https://github.com/zhongfeiorz/vimrc-high-star.git
 so C:\Users\bst\vruntime\vimrc-master\init.vim
 ```
 
