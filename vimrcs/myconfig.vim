@@ -9,3 +9,6 @@ endif
 
 " set font
 set guifont=Courier_New:b:h12
+
+" vmap <leader>c  copy to system clipboard
+vnoremap <leader>c "+y
