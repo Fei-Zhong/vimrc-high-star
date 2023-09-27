@@ -7,3 +7,4 @@ IncScript vimrcs/basic.vim
 IncScript vimrcs/filetypes.vim
 IncScript vimrcs/plugins_config.vim
 IncScript vimrcs/extended.vim
+IncScript vimrcs/myconfig.vim
